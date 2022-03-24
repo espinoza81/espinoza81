@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=espinoza81)](https://github.com/anuraghazra/github-readme-stats)
+### GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=espinoza81)](https://github.com/ryo-ma/github-profile-trophy)
